@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkha_areka"]=self["webpackChunkha_areka"]||[]).push([[594],{603:function(a,n,u){u.r(n),u.d(n,{default:function(){return o}});var e=u(6768);const r={class:"about"},t=(0,e.Lk)("h1",null,"This is an about page",-1),s=[t];function c(a,n){return(0,e.uX)(),(0,e.CE)("div",r,s)}var h=u(1241);const i={},k=(0,h.A)(i,[["render",c]]);var o=k}}]);
+//# sourceMappingURL=about.bd1c3265.js.map
